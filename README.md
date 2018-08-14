@@ -24,4 +24,4 @@ It is evident that we have achieved very good and clear viualization with rviz t
 
 All the steps to carry out this project is described under steps/steps.md 
 
-Credits: This work has been carried out for Google Summer of Code 2018 under mentorship of Prof. Kei Okada (@k-okada)
+Credits: This work has been carried out for Google Summer of Code 2018 under the mentorship of Prof. Kei Okada (@k-okada)
