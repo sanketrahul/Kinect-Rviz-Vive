@@ -16,4 +16,6 @@ The visualiztion on Windows using Unity Engine can be shown below:
 
 It is evident that we have achieved very good and clear viualization with rviz than to visualization on Windows machine via Unity engine. Also, the key problem of packet loss over the internet and delay can be solved easily as rviz is just an node on the ROS. Thus, through this project we have achieved a robust and clear visualization of Kinect Depth point cloud (Robot environment) to HTC Vive Headset. This will help a lot to the current researchers working on HTC Vive as input sensors in Human-robot interaction applications.
 
+All the steps to carry out this project is described under steps/steps.md 
 
+Credits: This work has been carried out for Google Summer of Code 2018 under mentorship of Prof. Kei Okada (@k-okada)
